@@ -1,36 +1,36 @@
 <p align="center">
  <img width="180px" src="https://i.ibb.co/Qn1W6cP/image.png" align="center"/>
- <h2 align="center">THE MYSTIC-BOT-MD</h2>
+ <h2 align="center">BarkBot</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Russilx/THE MYSTIC-BOT-MD?style=for-the-badge" />
+  <a href="https://github.com/Russilx/BarkBot/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Russilx/BarkBot?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Russilx/THE MYSTIC-BOT-MD?style=for-the-badge" />
+  <a href="https://github.com/Russilx/BarkBot/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Russilx/BarkBot?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Russilx/THE MYSTIC-BOT-MD?style=for-the-badge" />
+  <a href="https://github.com/Russilx/BarkBot/pulls">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Russilx/BarkBot?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/commits">
-    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/Russilx/THE MYSTIC-BOT-MD?style=for-the-badge" />
+  <a href="https://github.com/Russilx/BarkBot/commits">
+    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/Russilx/BarkBot?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Russilx/THE MYSTIC-BOT-MD?style=for-the-badge" />
+  <a href="https://github.com/Russilx/BarkBot">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Russilx/BarkBot?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/fork">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/Russilx/THE MYSTIC-BOT-MD?style=for-the-badge" />
+  <a href="https://github.com/Russilx/BarkBot/fork">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/Russilx/BarkBot?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demo</a>
   ·
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
+  <a href="https://github.com/Russilx/BarkBot/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
   ·
-  <a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
+  <a href="https://github.com/Russilx/BarkBot/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
 </p>
 
 <!-- <p align="center">
@@ -128,16 +128,16 @@
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest)
-[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Russilx/THE MYSTIC-BOT-MD)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/Russilx/THE MYSTIC-BOT-MD)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=THE MYSTIC-BOT-MD&repository=https://github.com/Russilx/THE MYSTIC-BOT-MD)
-[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/Russilx/THE MYSTIC-BOT-MD)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/Russilx/THE MYSTIC-BOT-MD)
-[![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://Russilx.github.io/THE MYSTIC-BOT-MD/)
-[![Deploy to Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://Russilx.github.io/THE MYSTIC-BOT-MD/)
-[![Deploy to Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://Russilx.github.io/THE MYSTIC-BOT-MD/)
+[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/Russilx/BarkBot)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/Russilx/BarkBot)
+[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=BarkBot&repository=https://github.com/Russilx/BarkBot)
+[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/Russilx/BarkBot)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/Russilx/BarkBot)
+[![Deploy to Termux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://Russilx.github.io/BarkBot/)
+[![Deploy to Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://Russilx.github.io/BarkBot/)
+[![Deploy to Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://Russilx.github.io/BarkBot/)
 
-<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Russilx/THE MYSTIC-BOT-MD) -->
+<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Russilx/BarkBot) -->
 
 # Soporte y Comunidad
 
@@ -160,8 +160,8 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/Russilx/THE MYSTIC-BOT-MD/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Russilx/THE MYSTIC-BOT-MD" /> 
+<a href="https://github.com/Russilx/BarkBot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Russilx/BarkBot" /> 
 </a>
 
 ## Agradecimientos

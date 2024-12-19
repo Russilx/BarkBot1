@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: THE MYSTIC-BOT-MD
+    name: BarkBot
     env: docker
     region: Frankfurt
     plan: free

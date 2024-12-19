@@ -1,4 +1,4 @@
-// THE MYSTIC-BOT-MD@Russilx - _antiprivado.js
+// BarkBot@Russilx - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

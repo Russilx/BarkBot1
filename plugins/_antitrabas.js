@@ -1,5 +1,5 @@
 /**
-THE MYSTIC-BOT-MD@Russilx - _antitrabas.js
+BarkBot@Russilx - _antitrabas.js
 By @NeKosmic || https://github.com/NeKosmic/
 **/
 
