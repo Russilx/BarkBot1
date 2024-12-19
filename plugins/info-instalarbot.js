@@ -11,7 +11,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1}`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Russilx/BarkBot`},
+    'document': {url: `https://github.com/Russilx/THE MYSTIC-BOT-MD`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -20,7 +20,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Russilx/BarkBot',
+        'mediaUrl': 'https://github.com/Russilx/THE MYSTIC-BOT-MD',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

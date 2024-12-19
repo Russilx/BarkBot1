@@ -1,5 +1,5 @@
 {
-  "name": "BarkBot",
+  "name": "THE MYSTIC-BOT-MD",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "eslintfix": "eslint --fix .",
     "postinstall": "node pipdeps.js"
   },
-  "homepage": "https://github.com/Russilx/BarkBot",
+  "homepage": "https://github.com/Russilx/THE MYSTIC-BOT-MD",
   "author": {
     "name": "Russilx"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Russilx/BarkBot.git"
+    "url": "git+https://github.com/Russilx/THE MYSTIC-BOT-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Russilx/BarkBot/issues"
+    "url": "https://github.com/Russilx/THE MYSTIC-BOT-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

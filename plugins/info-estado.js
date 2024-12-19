@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/Russilx/BarkBot` },
+    document: { url: `https://github.com/Russilx/THE MYSTIC-BOT-MD` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/Russilx/BarkBot",
+        mediaUrl: "https://github.com/Russilx/THE MYSTIC-BOT-MD",
         mediaType: 2,
         previewType: "pdf",
         title: "The Mystic - Bot",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/Russilx/BarkBot",
+        sourceUrl: "https://github.com/Russilx/THE MYSTIC-BOT-MD",
       },
     },
     caption: info,

@@ -1,4 +1,4 @@
-// BarkBot@Russilx - _antiarab.js
+// THE MYSTIC-BOT-MD@Russilx - _antiarab.js
 
 
 const handler = (m) => m;

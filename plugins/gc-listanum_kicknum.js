@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/Russilx/BarkBot)
+      (https://github.com/Russilx/THE MYSTIC-BOT-MD)
 */
 
 
