@@ -1,7 +1,7 @@
 {
     "___creditos": {
-        "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Contribuidor": "",
+        "___Criador": ""
     },
     "plugins": {
         "_antiarab": {
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Descarga por Russilx & BarkBot 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
@@ -2426,8 +2426,8 @@
                 "Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
-            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por Russilx, tu seras The Mystic - Bot.",
+            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por Russilx, tu seras The Mystic - Bot.",
             "texto4": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_chatgptvoz": {
@@ -2436,7 +2436,7 @@
                 " Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por BrunoSobrino, tu seras The Mystic - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por Russilx, tu seras The Mystic - Bot.",
             "texto3": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_clima": {
@@ -2737,7 +2737,7 @@
             "texto2": "El Mejor Hosting 🚀⁩"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Pagina Oficial: https://boxmineworld.com\n> Dashboard: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Soporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇\n> https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Pagina Oficial: https://boxmineworld.com\n> Dashboard: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Soporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇\n> https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/Russilx/BarkBot.git && cd BarkBot\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd BarkBot\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd BarkBot\n> rm -rf MysticSession\n> npm start",
             "texto2": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
         },
         "info_listprem": {
@@ -2772,12 +2772,12 @@
             "texto1": [
                 "_*< INFO - REPOSITORIO />*_",
                 "▢ *Nombre:*",
-                "TheMystic-Bot-MD",
+                "BarkBot",
                 "▢ *Visitantes:*",
                 "▢ *Tamaño:*",
                 "▢ *Actualización:*",
                 "▢ *URL:*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://github.com/Russilx/BarkBot",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -3845,18 +3845,18 @@
             "texto11": [
                 "*[ ⚠ ] Advertencia*",
                 "*[ ⚠ ] Advertencia*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://github.com/Russilx/BarkBot"
             ]
         },
         "participantsUpdate": {
-            "texto1": "👋 ¡Bienvenido/a!\n@user",
-            "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[ ℹ️ ] @user Fue promovido a administrador.*",
-            "texto4": "*[ ℹ️ ] @user Fue degradado de administrador.*",
-            "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada.*",
-            "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado.*",
-            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*"
+            "texto1": "Ɑ͞ ̶͞ ̶͞ ﻝﮞ 𝙱𝚒𝚎𝚗𝚟𝚎𝚗𝚒𝚍𝚘 𝚊 𝚙𝚎𝚛𝚞. ¿𝚄𝚗𝚊 𝚙𝚊𝚕𝚘𝚖𝚊? 🕊. @user",
+            "texto2": "Ɑ͞ ̶͞ ̶͞ ﻝﮞ 𝙽𝚘 𝚟𝚞𝚎𝚕𝚟𝚊𝚜 𝚖𝚊𝚜 𝚙𝚎𝚛𝚞𝚊𝚗𝚘 𝚌𝚘𝚗𝚌𝚑𝚊𝚝𝚞𝚖𝚊𝚛𝚎! @user",
+            "texto3": "*Ɑ͞ ̶͞ ̶͞ ﻝﮞ @user 𝙵𝚎𝚕𝚒𝚌𝚒𝚍𝚊𝚍𝚎𝚜 𝚙𝚎𝚕𝚘𝚝𝚞𝚍@*",
+            "texto4": "*Ɑ͞ ̶͞ ̶͞ ﻝﮞ @user 𝙹𝙰𝙹𝙰𝙹𝙰𝙹𝙰 𝙵𝚞𝚒𝚜𝚝𝚎 𝚍𝚎𝚜𝚌𝚎𝚗𝚍𝚒𝚍𝚘 𝚌𝚘𝚖𝚘 𝚛𝚒𝚋𝚎𝚛 𝚎𝚗 𝚎𝚕 𝟸𝟶𝟷𝟷.",
+            "texto5": "*Ɑ͞ ̶͞ ̶͞ ﻝﮞ 𝙻𝚊 𝚍𝚎𝚜𝚌𝚛𝚒𝚙𝚌𝚒𝚘𝚗 𝚏𝚞𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚌𝚊𝚍𝚊, 𝚚𝚞𝚎𝚍𝚘 𝚙𝚎𝚘𝚛 𝚚𝚞𝚎 𝚊𝚗𝚝𝚎𝚜, 𝚕𝚊𝚜𝚝𝚒𝚖𝚘𝚜𝚊𝚖𝚎𝚗𝚝𝚎.",
+            "texto6": "*Ɑ͞ ̶͞ ̶͞ ﻝﮞ 𝙴𝚕 𝚗𝚘𝚖𝚋𝚛𝚎 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝚏𝚞𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚌𝚊𝚍𝚘 𝚊 𝚞𝚗𝚊 𝚙𝚎𝚘𝚛 𝚚𝚞𝚎 𝚕𝚊 𝚊𝚗𝚝𝚎𝚛𝚒𝚘𝚛.",
+            "texto7": "*Ɑ͞ ̶͞ ̶͞ ﻝﮞ 𝚄𝚗 𝚊𝚍𝚖𝚒𝚗 𝚌𝚘𝚗𝚌𝚑𝚞𝚍𝚘 𝚖𝚘𝚍𝚒𝚏𝚒𝚌𝚘 𝚕𝚊 𝚖𝚛𝚍 𝚍𝚎 𝚒𝚖𝚊𝚐𝚎𝚗 𝚚𝚞𝚎 𝚝𝚎𝚗𝚒𝚊 𝚍𝚎 𝚙𝚎𝚛𝚏𝚒𝚕.",
+            "texto8": "*Ɑ͞ ̶͞ ̶͞ ﻝﮞ 𝙴𝚕 𝚎𝚗𝚕𝚊𝚌𝚎 𝚏𝚞𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚌𝚊𝚍𝚘 𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚗𝚒𝚗𝚐𝚞𝚗 𝚙𝚎𝚛𝚞𝚊𝚗𝚘 𝚌𝚘𝚖𝚎 𝚙𝚊𝚕𝚘𝚖𝚊 𝚎𝚗𝚝𝚛𝚎."
         },
         "deleteUpdate": {
             "texto1": [

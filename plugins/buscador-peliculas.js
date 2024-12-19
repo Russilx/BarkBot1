@@ -1,4 +1,4 @@
-/* Creado por Bruno Sobrino (https://github.com/BrunoSobrino) */
+/* Creado por Bruno Sobrino (https://github.com/Russilx) */
 import fetch from 'node-fetch';
 import axios from 'axios';
 

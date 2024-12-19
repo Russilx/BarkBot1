@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ BrunoSobrino (https://github.com/BrunoSobrino)  */
+/*     ◉ Russilx (https://github.com/Russilx)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
