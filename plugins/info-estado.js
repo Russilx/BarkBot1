@@ -28,32 +28,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
+  const wm = 'Bark Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Bruno Sobrino
-  ${tradutor.texto1[2]} +5219992095479
-  ${tradutor.texto1[3]} paypal.me/BrunoSob
-
-  ${tradutor.texto1[4]} ${rtime}
-  ${tradutor.texto1[5]} ${uptime}
-  ${tradutor.texto1[6]} ${usedPrefix}
-  ${tradutor.texto1[7]} ${self ? "privado" : "público"}
-  ${tradutor.texto1[8]} ${totalusrReg}
-  ${tradutor.texto1[9]} ${totalusr}
-  ${tradutor.texto1[10]} ${(conn.user.jid == global.conn.user.jid ? '' : `Sub-bot de:\n ▢ +${global.conn.user.jid.split`@`[0]}`) || 'No es sub-bot'}
- 
-  ${tradutor.texto1[11]} ${chats.length - groups.length}
-  ${tradutor.texto1[12]} ${groups.length}
-  ${tradutor.texto1[13]} ${chats.length}
- 
-  ${tradutor.texto1[14]} ${autoread ? "activo" : "desactivado"}
-  ${tradutor.texto1[15]} ${restrict ? "activo" : "desactivado"}
-  ${tradutor.texto1[16]} ${pconly ? "activado" : "desactivado"}
-  ${tradutor.texto1[17]} ${gconly ? "activado" : "desactivado"}
-  ${tradutor.texto1[18]} ${antiprivado ? "activado" : "desactivado"}
-  ${tradutor.texto1[19]} ${antiCall ? "activado" : "desactivado"}
-  ${tradutor.texto1[20]} ${modejadibot ? "activado" : "desactivado"}`.trim();
+  ${tradutor.texto1[1]} Esteban Bark
+  ${tradutor.texto1[2]} +5491125950331
+  ${tradutor.texto1[3]}`.trim();
   const doc = [
     "pdf",
     "zip",
